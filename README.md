@@ -1,12 +1,13 @@
 # References for *Careproctus argosgeorgiae* sp. nov. – Poster (2026)
 
-This repository hosts the Zootaxa-style formatted reference list used in a scientific poster presented at the conference **“Topics of Fish Systematics”** (Zoological Institute RAS, Saint Petersburg, March 18–20, 2026), dedicated to the 150th anniversary of Lev S. Berg.
+This repository hosts the Zootaxa-style formatted reference list used in a scientific poster presented at the conference **“Topics of Fish Systematics”** (Zoological Institute RAS, Saint Petersburg, March 18–20, 2026), dedicated to the 150th anniversary of Lev S. Berg (https://www.zin.ru/conferences/Berg_2026/index_e.html).
 
-The references support the publication:
+The references support the following publication:
 
-**Villarroel-Perez, M.L. et al. (2026).**  
-*New species of Careproctus (Cottoidei: Liparidae) from the Falkland Plateau, SW Atlantic, with genetic results.*  
-Zootaxa (Magnolia Press).
+**Villarroel-Perez, M.L., Chernova, N.V., Weston, J.J.N., Vukasin, V. & Shcherbich, Z. (2026).**  
+*A new species of Careproctus (Cottoidei: Liparidae) from the Falkland Plateau, southwestern Atlantic, with COI-based phylogenetic analysis.*  
+Zootaxa, **5777**(3), 453–470.  
+https://doi.org/10.11646/zootaxa.5777.3.3
 
 ---
 
